@@ -8,4 +8,3 @@ RUN chmod -R 755 /docker-entrypoint-initdb.d/init.sh
 RUN chmod -R 755 /docker-entrypoint-initdb.d/init.sql
 
 RUN chmod -R 755 /var/lib/postgresql/data
-
